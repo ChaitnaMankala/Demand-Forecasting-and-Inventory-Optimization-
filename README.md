@@ -27,7 +27,7 @@ Pandas, NumPy (Data Processing)
 Matplotlib, Plotly (Data Visualization)
 Statsmodels (SARIMA), Time Series Forecasting (Predictive Analytics)
 # Results
-Optimal Order Quantity: 236
-Reorder Point: 235
-Safety Stock: 114
+Optimal Order Quantity: 236,
+Reorder Point: 235,
+Safety Stock: 114,
 Total Inventory Cost Reduction: 15%
